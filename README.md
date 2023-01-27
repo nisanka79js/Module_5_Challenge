@@ -8,4 +8,4 @@ In this study, 249 mice who were identified with SCC tumors received treatment w
 **Prepare Data**
 
 For the analysis both datasets imported, merged,cleaned and the aggregate data in to Python Pandas dataframes, visualized using Matplotlib, and other libraries used in order to make a stastical analysis. The project is conducted in Jupyter notebook.
-The summery statistic table consis the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.Two identical bar charts was generated to show the number of total mice for each treatment regimen throughout the course of the study.Two identical pie plot was generated to show the distribution of female or male mice in the study.
+The summery statistic table consist of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.Two identical bar charts was generated to show the number of total mice for each treatment regimen throughout the course of the study.Two identical pie plot was generated to show the distribution of female or male mice in the study.
